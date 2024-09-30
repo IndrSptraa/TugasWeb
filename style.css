@@ -248,10 +248,17 @@ body {
         }
 
         .content-title {
-            margin: 0;
+            margin: 10px;
             font-size: 20px;
             color: #11212D; /* Warna judul */
             margin-bottom: 10px;
+        }
+
+        .content2-title {
+            margin: 20px;
+            font-size: 20px;
+            color: #11212D; /* Warna judul */
+            
         }
 
         .content-text {
@@ -381,7 +388,7 @@ body {
 .content2 {
     background-color: #E4E8E6; /* Warna latar belakang konten */
     margin-bottom: 20px; /* Jarak antar konten */
-    padding: 20px; /* Padding dalam konten */
+    padding: 3px; /* Padding dalam konten */
     border-radius: 10px; /* Sudut melengkung */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Bayangan latar belakang */
     transition: transform 0.3s ease; /* Transisi untuk efek hover */
